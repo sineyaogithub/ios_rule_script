@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-19 20:16:29
+# UPDATED: 2022-07-21 02:30:11
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69427
+# DOMAIN-SUFFIX: 69412
 # IP-CIDR: 6258
 # IP-CIDR6: 4200
 # PROCESS-NAME: 10
 # USER-AGENT: 64
-# TOTAL: 80056
+# TOTAL: 80041
 265.com
 adservice.google.com
 analytics.strava.com
@@ -5607,7 +5607,6 @@ www4-static.gog-statics.com
 .64w.cc
 .651700.com
 .6528.com
-.654.com
 .654320.com
 .6543210.com
 .654321wan.com
@@ -8647,7 +8646,6 @@ www4-static.gog-statics.com
 .akhtm.com
 .akhy.com
 .akinoheya.com
-.akjunshi.com
 .akkogear.com
 .akng.net
 .akniu.com
@@ -16295,7 +16293,6 @@ www4-static.gog-statics.com
 .cloudsigma.com
 .cloudsiping.com
 .cloudsohu.net
-.cloudstack-china.org
 .cloudsuqian.com
 .cloudtangshan.com
 .cloudtcp.net
@@ -16906,7 +16903,6 @@ www4-static.gog-statics.com
 .cnonline.org
 .cnookr.com
 .cnool.net
-.cnophol.com
 .cnops.xyz
 .cnosr.com
 .cnoswiki.com
@@ -23435,7 +23431,6 @@ www4-static.gog-statics.com
 .fengone.com
 .fengpengjun.com
 .fengpintech.com
-.fengqiyc.com
 .fengqu.com
 .fengread.com
 .fengshangweekly.com
@@ -24085,7 +24080,6 @@ www4-static.gog-statics.com
 .fqpai.com
 .fqsszx.com
 .fqxs.org
-.fqzww.com
 .fr-odc.samsungapps.com
 .fr-trading.com
 .fr2007.com
@@ -24288,6 +24282,7 @@ www4-static.gog-statics.com
 .fulinedu.com
 .fuling.com
 .fulingwx.com
+.fuliquan.com
 .fuliti.com
 .fuliw.net
 .fuljk.com
@@ -29986,7 +29981,6 @@ www4-static.gog-statics.com
 .hulai.com
 .hulamao.com
 .hulanap.com
-.huliangongyu.com
 .hulianmaibo.com
 .hulinhong.com
 .huliqun.com
@@ -31998,7 +31992,6 @@ www4-static.gog-statics.com
 .internet-dns.com
 .internet.cn
 .internet7.vip
-.internetcaff.com
 .internetke.com
 .internettrademark.com
 .internetworld.cloud
@@ -39392,7 +39385,6 @@ www4-static.gog-statics.com
 .luobo360.com
 .luobocai.com
 .luobotou.org
-.luobowin10.com
 .luobowin8.com
 .luoboxia.com
 .luochen.com
@@ -40222,7 +40214,6 @@ www4-static.gog-statics.com
 .maro6.com
 .maroon91.com
 .marry5.com
-.marry80.com
 .marsfancy.com
 .marshotspot.com
 .marstor.com
@@ -44911,7 +44902,6 @@ www4-static.gog-statics.com
 .papertime.vip
 .paperweekly.site
 .paperword.com
-.paperwrite.net
 .paperyy.com
 .papocket.com
 .paquapp.com
@@ -47484,7 +47474,6 @@ www4-static.gog-statics.com
 .qqyouju.com
 .qqywf.com
 .qqyy.com
-.qqyyx.com
 .qqzby.net
 .qqzhi.com
 .qqzi.net
@@ -49326,7 +49315,6 @@ www4-static.gog-statics.com
 .sccm.cc
 .sccnn.com
 .sccq.net
-.sccsfxdq.com
 .sccts.com
 .sccwz.com
 .scdbzzw.com
@@ -52551,7 +52539,6 @@ www4-static.gog-statics.com
 .ssso.com
 .sst-ic.com
 .sst-sd.com
-.ssuu.cc
 .ssvideo.cn
 .ssvideo.com.cn
 .ssvob.com
@@ -54665,7 +54652,6 @@ www4-static.gog-statics.com
 .tianfeiyu.com
 .tianfupic.com
 .tianfusoftwarepark.com
-.tianhaohz.com
 .tianhejiayi.com
 .tianhongdiaosu.com
 .tianhongsunshine.com
@@ -56751,7 +56737,6 @@ www4-static.gog-statics.com
 .union-rnd.com
 .union400.com
 .union555.com
-.unionclouds.net
 .unioncyber.net
 .unionpay.com
 .unionpay.net
@@ -59952,6 +59937,7 @@ www4-static.gog-statics.com
 .wolongimg.com
 .wolongyin.com
 .wolongyoule.com
+.wolongzywcdn.com
 .wolwo.ltd
 .wolwobiotech.com
 .wom186.com
@@ -60442,7 +60428,6 @@ www4-static.gog-statics.com
 .wukong.com
 .wukong.la
 .wukongapi.com
-.wukongchou995.com
 .wukongkf.com
 .wukonglicai.com
 .wukongphp.com
@@ -67235,7 +67220,6 @@ www4-static.gog-statics.com
 .zhange8.com
 .zhangfensir.com
 .zhanggang.net
-.zhanggao.club
 .zhanggaoyuan.com
 .zhanggee.com
 .zhanghaijun.com
@@ -67983,6 +67967,7 @@ www4-static.gog-statics.com
 .zhuangji.net
 .zhuangjiba.com
 .zhuangjiyuan.com
+.zhuangkou.com
 .zhuangku.com
 .zhuangpeitu.com
 .zhuangpin.com
